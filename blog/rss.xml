@@ -4,10 +4,23 @@
         <title>241saurus Blog</title>
         <link>https://danktapir.github.io/241saurus/blog/</link>
         <description>241saurus Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Pop Quiz]]></title>
+            <link>https://danktapir.github.io/241saurus/blog/POP-QUIZ/</link>
+            <guid>https://danktapir.github.io/241saurus/blog/POP-QUIZ/</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pop Quiz W07 Blog]]></description>
+            <content:encoded><![CDATA[<p>Pop Quiz W07 Blog</p>
+<p>-- Dank Tapir and Ghozi</p>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>]]></content:encoded>
+            <category>POPQUIZ</category>
+            <category>WEEK07</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://danktapir.github.io/241saurus/blog/welcome/</link>

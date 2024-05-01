@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://danktapir.github.io/241saurus/blog/</id>
     <title>241saurus Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-04-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://danktapir.github.io/241saurus/blog/"/>
     <subtitle>241saurus Blog</subtitle>
     <icon>https://danktapir.github.io/241saurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pop Quiz]]></title>
+        <id>https://danktapir.github.io/241saurus/blog/POP-QUIZ/</id>
+        <link href="https://danktapir.github.io/241saurus/blog/POP-QUIZ/"/>
+        <updated>2024-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pop Quiz W07 Blog]]></summary>
+        <content type="html"><![CDATA[<p>Pop Quiz W07 Blog</p>
+<p>-- Dank Tapir and Ghozi</p>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>]]></content>
+        <author>
+            <name>Dank Tapir</name>
+            <uri>https://github.com/danktapir</uri>
+        </author>
+        <author>
+            <name>Ghozi</name>
+            <uri>https://github.com/aghoz-i</uri>
+        </author>
+        <category label="POPQUIZ" term="POPQUIZ"/>
+        <category label="WEEK07" term="WEEK07"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://danktapir.github.io/241saurus/blog/welcome/</id>
